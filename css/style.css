@@ -26,6 +26,8 @@
 	background-color: #ee6e73 !important;
 }
 
+
+/*  Responsive */
 @media(max-width : 992px) {
 
 	.nav-wrapper > a:hover {
